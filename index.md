@@ -1,4 +1,4 @@
-## Web development : entry to quit :checkered_flag:
+## Web development : entry to quit ![:checkered_flag:]
 
 You can use the [editor on GitHub](https://github.com/xyzh43/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
