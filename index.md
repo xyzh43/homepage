@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/xyzh43/xyzh43.github.io/tree/master/2020%20Diary) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # Contents
-```
+
 1. [2020 Diary](https://github.com/xyzh43/xyzh43.github.io/tree/master/2020%20Diary)
 2. 阳阳成长日记
-```
+
